@@ -1,0 +1,21 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    width: 1140px;
+    margin: 0% auto;
+}
+
+.header {
+    background-color: #5454D4;
+    color: white;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 24px;
+}
