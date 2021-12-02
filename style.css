@@ -51,3 +51,35 @@
     color: black;
     font-weight: 600;
 }
+
+.center-list {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-img {
+    width: 391px;
+    height: 633px;
+}
+
+.center-title-list {
+    padding-left: 40px;
+}
+
+.center-title-text {
+    font-size: 60px;
+    width: 500px;
+}
+
+.center-text-text {
+    font-size: 21px;
+    width: 500px;
+    letter-spacing: 2px;
+    color: #B2FFFFFF;
+}
+
+.money {
+    background-color: ;
+}
