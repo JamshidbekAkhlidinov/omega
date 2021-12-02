@@ -13,9 +13,41 @@
 .header {
     background-color: #5454D4;
     color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header-list,
+.header-list-center,
+.list-right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .header-title {
     font-weight: 700;
     font-size: 24px;
+    color: white;
+}
+
+.item-text {
+    padding-left: 20px;
+    color: white;
+}
+
+.link-card {
+    padding-right: 20px;
+    color: white;
+    font-size: 18px;
+}
+
+.link-circle {
+    width: 30px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #FEDC5A;
+    padding: 10px 15px 10px 15px;
+    color: black;
+    font-weight: 600;
 }
