@@ -254,3 +254,10 @@
 .asside-img {
     height: 400px;
 }
+
+.page {
+    background-color: #5454D4;
+    background-image: url(./img/img.png);
+    height: 200px;
+    background-size: 100%;
+}
