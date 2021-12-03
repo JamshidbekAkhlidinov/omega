@@ -222,3 +222,13 @@
     display: flex;
     justify-content: center;
 }
+
+.asside-imgs {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.asside-img {
+    height: 400px;
+}
