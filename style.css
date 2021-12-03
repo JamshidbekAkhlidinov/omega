@@ -223,10 +223,32 @@
     justify-content: center;
 }
 
+.aside {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.asside-title {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.asside-items {
+    display: flex;
+    justify-content: center;
+}
+
 .asside-imgs {
     display: flex;
     justify-content: center;
-    padding-top: 20px;
+    padding-top: 30px;
+}
+
+.asside-text {
+    font-size: 20px;
+    text-align: center;
+    width: 500px;
+    padding-top: 10px;
 }
 
 .asside-img {
