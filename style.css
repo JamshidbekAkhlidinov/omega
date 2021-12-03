@@ -126,3 +126,29 @@
     font-size: 20px;
     margin-left: 10px;
 }
+
+.section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.section-list {
+    width: 500px;
+}
+
+.section-title {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.section-text {
+    font-size: 21px;
+    font-weight: 400;
+    color: #696871;
+}
+
+.section-item {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
